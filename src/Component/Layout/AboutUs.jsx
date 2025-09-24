@@ -60,7 +60,7 @@ const AboutUs = () => {
           <img
             src={book2}
             alt="Our Approach"
-            className="w-ful h-90 object-cover shadow-md"
+            className="w-full h-90 object-cover shadow-md"
           />
         </div>
       </section>
